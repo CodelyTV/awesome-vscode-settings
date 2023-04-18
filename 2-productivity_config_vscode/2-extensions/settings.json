@@ -13,5 +13,9 @@
   "files.autoSave": "onFocusChange",
   "files.eol": "\n",
   "search.useGlobalIgnoreFiles": true,
-  "search.useIgnoreFiles": true
+  "search.useIgnoreFiles": true,
+
+  // Extensions
+  "focus.opacity": "0.7",
+  "focus.highlightRange": "block"
 }
