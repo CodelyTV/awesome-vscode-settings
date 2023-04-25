@@ -27,14 +27,20 @@
   "editor.smoothScrolling": true,
   "explorer.compactFolders": false,
   "editor.renderWhitespace": "selection",
+  "editor.bracketPairColorization.enabled": true,
 
   "workbench.list.horizontalScrolling": true,
   "workbench.sideBar.location": "left",
   "workbench.tree.indent": 20,
   "workbench.list.smoothScrolling": true,
 
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "symbols",
+
   // Extensions
   "focus.opacity": "0.7",
   "focus.highlightRange": "block",
+
+  // Others
   "workbench.activityBar.visible": false
 }

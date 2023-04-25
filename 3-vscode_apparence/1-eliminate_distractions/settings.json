@@ -20,8 +20,11 @@
   "workbench.activityBar.visible": false,
   "workbench.editor.showTabs": false,
   "explorer.openEditors.visible": 0,
+  "editor.bracketPairColorization.enabled": true,
 
   // Extensions
   "focus.opacity": "0.7",
   "focus.highlightRange": "block"
+
+  // Others
 }

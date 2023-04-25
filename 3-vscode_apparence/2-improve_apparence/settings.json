@@ -32,9 +32,12 @@
   "workbench.sideBar.location": "left",
   "workbench.tree.indent": 20,
   "workbench.list.smoothScrolling": true,
+  "editor.bracketPairColorization.enabled": true,
 
   // Extensions
   "focus.opacity": "0.7",
   "focus.highlightRange": "block",
   "workbench.activityBar.visible": false
+
+  // Others
 }
