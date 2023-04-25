@@ -1,0 +1,27 @@
+{
+  "editor.fontSize": 16,
+  "editor.formatOnPaste": false,
+  "editor.suggestSelection": "first",
+  "editor.minimap.enabled": false,
+  "editor.rulers": [
+    100
+  ],
+  "editor.tabSize": 2,
+  "editor.wordWrap": "off",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.excludeGitIgnore": false,
+  "files.autoSave": "onFocusChange",
+  "files.eol": "\n",
+  "search.useGlobalIgnoreFiles": true,
+  "search.useIgnoreFiles": true,
+
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
+  "workbench.editor.showTabs": false,
+  "explorer.openEditors.visible": 0,
+
+  // Extensions
+  "focus.opacity": "0.7",
+  "focus.highlightRange": "block"
+}
