@@ -1,3 +1,4 @@
 GrapeCity.gc-excelviewer
 mechatroner.rainbow-csv
 QuanLi.focus
+Codely.codely-theme
