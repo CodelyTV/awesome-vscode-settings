@@ -1,5 +1,5 @@
 {
-  "editor.fontSize": 16,
+  "editor.fontSize": 20,
   "editor.formatOnPaste": false,
   "editor.suggestSelection": "first",
   "editor.minimap.enabled": false,
@@ -39,6 +39,8 @@
 
   "workbench.productIconTheme": "fluent-icons",
   "workbench.iconTheme": "symbols",
+
+  "breadcrumbs.symbolPath": "off",
 
   // Extensions
   "focus.opacity": "0.7",
