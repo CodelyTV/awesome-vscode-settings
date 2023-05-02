@@ -1,0 +1,51 @@
+{
+  "editor.fontSize": 20,
+  "editor.formatOnPaste": false,
+  "editor.suggestSelection": "first",
+  "editor.minimap.enabled": false,
+  "editor.fontFamily": "DankMono Nerd font Mono",
+  "terminal.integrated.fontFamily": "DankMono Nerd font Mono",
+  "editor.lineHeight": 2.1,
+  "editor.rulers": [
+    100
+  ],
+  "editor.tabSize": 2,
+  "editor.wordWrap": "off",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.excludeGitIgnore": false,
+  "files.autoSave": "onFocusChange",
+  "files.eol": "\n",
+  "search.useGlobalIgnoreFiles": true,
+  "search.useIgnoreFiles": true,
+
+  "workbench.statusBar.visible": false,
+  "workbench.editor.showTabs": false,
+  "explorer.openEditors.visible": 0,
+
+  // Apparence
+  "workbench.colorTheme": "Codely Dark",
+
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.smoothScrolling": true,
+  "explorer.compactFolders": false,
+  "editor.renderWhitespace": "selection",
+  "editor.bracketPairColorization.enabled": true,
+
+  "workbench.list.horizontalScrolling": true,
+  "workbench.sideBar.location": "left",
+  "workbench.tree.indent": 20,
+  "workbench.list.smoothScrolling": true,
+
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.iconTheme": "symbols",
+
+  "breadcrumbs.symbolPath": "off",
+
+  // Extensions
+  "focus.opacity": "0.7",
+  "focus.highlightRange": "block",
+
+  // Others
+  "workbench.activityBar.visible": false
+}
