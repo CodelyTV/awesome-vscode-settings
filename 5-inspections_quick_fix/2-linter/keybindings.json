@@ -45,7 +45,7 @@
     "command": "notifications.clearAll"
   },
   {
-    "key": "cmd+d",
+    "key": "ctrl+d",
     "command": "editor.action.copyLinesDownAction",
     "when": "editorTextFocus && !editorReadonly"
   },
