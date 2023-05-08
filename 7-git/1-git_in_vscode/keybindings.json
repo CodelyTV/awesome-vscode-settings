@@ -108,5 +108,9 @@
     "args": {
       "kind": "refactor.extract.function",
     }
+  },
+  {
+    "key": "shift+cmd+b",
+    "command": "git.checkout"
   }
 ]
