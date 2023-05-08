@@ -63,4 +63,9 @@
     "command": "workbench.action.navigateForward",
     "when": "canNavigateForward"
   },
+  {
+    "key": "shift+cmd+t",
+    "command": "extension.jumpToTest",
+    "when": "editorTextFocus"
+  }
 ]

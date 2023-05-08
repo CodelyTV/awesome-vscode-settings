@@ -25,7 +25,6 @@
 
   // Apparence
   "workbench.colorTheme": "Codely Dark",
-
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.smoothScrolling": true,
   "explorer.compactFolders": false,
@@ -36,17 +35,19 @@
   "workbench.sideBar.location": "left",
   "workbench.tree.indent": 20,
   "workbench.list.smoothScrolling": true,
-
   "workbench.productIconTheme": "fluent-icons",
   "workbench.iconTheme": "symbols",
-  
   "breadcrumbs.symbolPath": "off",
+
+  // Actions
+  "editor.codeActionsOnSave": {
+    "source.addMissingImports": true
+  },
 
   // Extensions
   "focus.opacity": "0.7",
   "focus.highlightRange": "block",
 
   // Others
-  "workbench.activityBar.visible": false,
-  "git.openRepositoryInParentFolders": "always"
+  "workbench.activityBar.visible": false
 }

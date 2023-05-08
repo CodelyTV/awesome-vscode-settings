@@ -5,3 +5,4 @@ Codely.codely-theme
 usernamehw.errorlens
 miguelsolorio.fluent-icons
 miguelsolorio.symbols
+Nautigsam.go-to-test
