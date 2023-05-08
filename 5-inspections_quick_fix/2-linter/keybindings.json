@@ -78,6 +78,16 @@
     "when": "editorTextFocus"
   },
   {
+    "key": "shift+alt+down",
+    "command": "editor.action.moveLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "shift+alt+up",
+    "command": "editor.action.moveLinesUpAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
     "key": "alt+up",
     "command": "editor.action.smartSelect.expand",
     "when": "editorTextFocus"
