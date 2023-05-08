@@ -3,6 +3,7 @@
   "editor.formatOnPaste": false,
   "editor.suggestSelection": "first",
   "editor.minimap.enabled": false,
+  "editor.dragAndDrop": false,
   "editor.fontFamily": "DankMono Nerd font Mono",
   "terminal.integrated.fontFamily": "DankMono Nerd font Mono",
   "editor.lineHeight": 2.1,

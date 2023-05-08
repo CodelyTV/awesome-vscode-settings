@@ -3,8 +3,10 @@
   "editor.formatOnPaste": false,
   "editor.suggestSelection": "first",
   "editor.minimap.enabled": false,
+  "editor.dragAndDrop": false,
   "editor.fontFamily": "DankMono Nerd font Mono",
   "terminal.integrated.fontFamily": "DankMono Nerd font Mono",
+  "terminal.integrated.fontSize": 20,
   "editor.lineHeight": 2.1,
   "editor.rulers": [
     100
@@ -18,8 +20,6 @@
   "files.eol": "\n",
   "search.useGlobalIgnoreFiles": true,
   "search.useIgnoreFiles": true,
-
-  "workbench.statusBar.visible": false,
   "workbench.editor.showTabs": false,
   "explorer.openEditors.visible": 0,
 
@@ -31,7 +31,7 @@
   "explorer.compactFolders": false,
   "editor.renderWhitespace": "selection",
   "editor.bracketPairColorization.enabled": true,
-
+  "editor.lightbulb.enabled": false,
   "workbench.list.horizontalScrolling": true,
   "workbench.sideBar.location": "left",
   "workbench.tree.indent": 20,
@@ -39,7 +39,7 @@
 
   "workbench.productIconTheme": "fluent-icons",
   "workbench.iconTheme": "symbols",
-
+  
   "breadcrumbs.symbolPath": "off",
 
   // Extensions
@@ -47,5 +47,6 @@
   "focus.highlightRange": "block",
 
   // Others
-  "workbench.activityBar.visible": false
+  "workbench.activityBar.visible": false,
+  "git.openRepositoryInParentFolders": "always"
 }
