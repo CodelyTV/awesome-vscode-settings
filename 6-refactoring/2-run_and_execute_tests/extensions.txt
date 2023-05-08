@@ -7,3 +7,4 @@ miguelsolorio.fluent-icons
 miguelsolorio.symbols
 blakeh.jump-to-test
 dbaeumer.vscode-eslint
+Orta.vscode-jest
