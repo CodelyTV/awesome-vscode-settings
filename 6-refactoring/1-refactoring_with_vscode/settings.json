@@ -46,6 +46,7 @@
       "source.fixAll.eslint"
     ],
   },
+  "typescript.updateImportsOnFileMove.enabled": "always",
   // Extensions
   "focus.opacity": "0.7",
   "focus.highlightRange": "block",

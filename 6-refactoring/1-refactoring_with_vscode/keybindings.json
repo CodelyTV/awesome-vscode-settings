@@ -96,5 +96,17 @@
     "key": "alt+down",
     "command": "editor.action.smartSelect.shrink",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+t",
+    "command": "editor.action.refactor",
+    "when": "editorHasCodeActionsProvider && textInputFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+e",
+    "command": "editor.action.codeAction",
+    "args": {
+      "kind": "refactor.extract.function",
+    }
   }
 ]
