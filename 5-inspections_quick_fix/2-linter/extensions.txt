@@ -5,4 +5,5 @@ Codely.codely-theme
 usernamehw.errorlens
 miguelsolorio.fluent-icons
 miguelsolorio.symbols
-Nautigsam.go-to-test
+blakeh.jump-to-test
+dbaeumer.vscode-eslint

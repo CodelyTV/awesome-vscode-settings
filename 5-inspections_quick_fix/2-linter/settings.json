@@ -1,6 +1,5 @@
 {
   "editor.fontSize": 20,
-  "editor.formatOnPaste": false,
   "editor.suggestSelection": "first",
   "editor.minimap.enabled": false,
   "editor.dragAndDrop": false,
@@ -22,7 +21,6 @@
   "search.useIgnoreFiles": true,
   "workbench.editor.showTabs": false,
   "explorer.openEditors.visible": 0,
-
   // Apparence
   "workbench.colorTheme": "Codely Dark",
   "editor.cursorSmoothCaretAnimation": "on",
@@ -38,16 +36,19 @@
   "workbench.productIconTheme": "fluent-icons",
   "workbench.iconTheme": "symbols",
   "breadcrumbs.symbolPath": "off",
-
   // Actions
-  "editor.codeActionsOnSave": {
-    "source.addMissingImports": true
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "[typescript]": {
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": [
+      "source.addMissingImports",
+      "source.fixAll.eslint"
+    ],
   },
-
   // Extensions
   "focus.opacity": "0.7",
   "focus.highlightRange": "block",
-
   // Others
   "workbench.activityBar.visible": false
 }
