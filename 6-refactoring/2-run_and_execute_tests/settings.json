@@ -50,6 +50,7 @@
   // Extensions
   "focus.opacity": "0.7",
   "focus.highlightRange": "block",
+  "jest.autoRun": "off",
   // Others
   "workbench.activityBar.visible": false
 }
