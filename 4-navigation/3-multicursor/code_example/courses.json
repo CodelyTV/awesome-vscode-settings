@@ -1,0 +1,1478 @@
+[
+	{
+		"pw_course_id": "198597",
+		"title": "DDD, Microservicios e Infra en Audiense, Genially y Codely",
+		"emoji": "🧿",
+		"summary": "Sesiones donde hablamos sobre DDD, Microservicios e Infraestructura en Audiense, Genially y Codely.",
+		"authors": ["audiense", "genially", "codely"],
+		"releaseDate": { "start": "2023-04-06", "end": "2023-04-06" },
+		"tags": [],
+		"categories": ["backend", "devops"],
+		"sticker": "/img/cursos/ddd-ms-Infra-audiense-genially-y-codely.png",
+		"slug": "ddd-ms-Infra-audiense-genially-y-codely",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/ddd-microservicios-e-infra-en-audiense-genially-y-codely-198597/490806/about/"
+	},
+	{
+		"pw_course_id": "198472",
+		"title": "Web Portfolio desde 0 en directo: Next.js vs Gatsby",
+		"emoji": "🖼️",
+		"summary": "Serie de directos comparando la creación de un portfolio web utilizando Next.js y Gatsby, ambos desplegados en diferentes plataformas, permitiéndote aprender y comparar las tecnologías.",
+		"authors": ["javier-ferrer", "isma-navarro", "nuria-soriano"],
+		"releaseDate": { "start": "2023-04-06", "end": "2023-04-06" },
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/web-portfolio-en-directo-next-gatsby.png",
+		"slug": "web-portfolio-en-directo-next-gatsby",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/web-portfolio-desde-0-en-directo-next-js-vs-gatsby-198472/490803/about/"
+	},
+	{
+		"pw_course_id": "197663",
+		"title": "Arquitectura Hexagonal en Frontend",
+		"emoji": "🧇",
+		"summary": "Aprende a implementar Arquitectura Hexagonal en tus aplicaciones frontend",
+		"authors": ["rafa-gomez", "nuria-soriano"],
+		"releaseDate": { "start": "2023-03-30", "end": "2023-04-13" },
+		"tags": [],
+		"categories": ["frontend", "arquitectura-software"],
+		"sticker": "/img/cursos/arquitectura-hexagonal-frontend.png",
+		"slug": "arquitectura-hexagonal-frontend",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/arquitectura-hexagonal-en-frontend-197663/483637/about/"
+	},
+	{
+		"pw_course_id": "197666",
+		"title": "Auditoría web: Ryanair",
+		"emoji": "✈️",
+		"summary": "Analizamos en directo el rendimiento, accesibilidad y UX de la web de Ryanair",
+		"authors": ["javier-ferrer", "nuria-soriano"],
+		"releaseDate": { "start": "2023-03-15", "end": "2023-03-15" },
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/auditoria-ryanair.png",
+		"slug": "auditoria-ryanair",
+		"color": "green",
+		"url": "https://pro.codely.com/library/auditoria-web-ryanair-197666/483650/about/"
+	},
+	{
+		"pw_course_id": "193451",
+		"title": "Terraform: Buenas prácticas llevando tu infraestructura a código",
+		"emoji": "🪐",
+		"summary": "Cuando trabajas con infraestructura en la nube debes prepararte para poder realizar cualquier cambio sin peligro alguno. En este curso te contamos cómo versionar y automatizar toda la infraestructura de tu aplicación.",
+		"authors": ["javier-ferrer", "adrian-catalan", "esteve-oria"],
+		"releaseDate": { "start": "2023-02-23", "end": "2023-03-23" },
+		"tags": [],
+		"categories": ["devops"],
+		"sticker": "/img/cursos/terraform.png",
+		"slug": "terraform",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/terraform-buenas-practicas-llevando-tu-infraestructura-a-codigo-193451/479241/about/"
+	},
+	{
+		"pw_course_id": "196291",
+		"title": "Buenas prácticas con CSS: selectores",
+		"emoji": "🥢",
+		"summary": "Aprende a aplicar buenas prácticas a tus selectores CSS entendiendo bien las bases.",
+		"authors": ["maria-barrios", "rafa-gomez"],
+		"releaseDate": { "start": "2023-02-16", "end": "2023-03-01" },
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/selectores-css.png",
+		"slug": "selectores-css",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/buenas-practicas-con-css-selectores-196291/477266/about/"
+	},
+	{
+		"pw_course_id": "194448",
+		"title": "Tratamiento de datos en Bash: Gestiona archivos JSON, XML, YAML",
+		"emoji": "🎲",
+		"summary": "Bash es el lenguaje de scripting más famoso que hay. Aprende a sacarle todo el potencial para gestionar nuestros JSONs, YAMLs…",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": { "start": "2023-01-12", "end": "2023-02-09" },
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/datos-bash.png",
+		"slug": "datos-bash",
+		"color": "green",
+		"url": "https://pro.codely.com/library/tratamiento-de-datos-en-bash-gestiona-archivos-json-xml-yaml-194448/469007/about/"
+	},
+	{
+		"pw_course_id": "193022",
+		"title": "Auditoría Holaluz",
+		"emoji": "🌞",
+		"summary": "Sesión de auditoría en la que se revisa el diseño y arquitectura de software de una parte de los sistemas de Holaluz.",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": { "start": "2022-12-07", "end": "2022-12-15" },
+		"tags": [],
+		"categories": ["arquitectura-software", "backend", "devops"],
+		"sticker": "/img/cursos/auditoria-holaluz.png",
+		"slug": "auditoria-holaluz",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/auditoria-holaluz-193022/about/"
+	},
+	{
+		"pw_course_id": "192069",
+		"title": "React de 0 aplicando buenas prácticas",
+		"emoji": "🎛️",
+		"summary": "Introdúcete en React desde 0 creando tu developer dashboard personal dónde podrás consultar las métricas de tus repositorios favoritos.",
+		"authors": ["isma-navarro", "javier-ferrer"],
+		"releaseDate": { "start": "2022-11-17", "end": "2022-12-29" },
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/react-desde-0.png",
+		"slug": "react-desde-0",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/react-de-0-aplicando-buenas-practicas-192069/about/"
+	},
+	{
+		"pw_course_id": "189116",
+		"title": "API HTTP en Kotlin aplicando Arquitectura Hexagonal",
+		"emoji": "💎",
+		"summary": "Aprende a desarrollar tu primera API HTTP en Kotlin aplicando algunos de los fundamentos de la Arquitectura Hexagonal.",
+		"authors": ["isa-garrido", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2022-10-27",
+			"end": "2022-11-24"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/api-kotlin-hexagonal.png",
+		"slug": "api-http-en-kotlin-aplicando-arquitectura-hexagonal",
+		"color": "green",
+		"url": "https://pro.codely.com/library/api-http-en-kotlin-aplicando-arquitectura-hexagonal-189116/456277/about/"
+	},
+	{
+		"pw_course_id": "189024",
+		"title": "DDD en TypeScript: Comunicación entre servicios y aplicaciones",
+		"emoji": "\uD83D\uDEF0",
+		"summary": "Comunica servicios y aplicaciones usando Domain-Driven Design (DDD) y TypeScript y consigue así que el software y los equipos escalen de forma progresiva.",
+		"authors": ["fernando-vilas", "ruben-salado", "dani-santamaria"],
+		"releaseDate": {
+			"start": "2022-10-06",
+			"end": "2022-11-03"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/ddd-en-typescript-eda.png",
+		"slug": "ddd-en-typescript-comunicacion-entre-servicios-y-aplicaciones",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/ddd-en-typescript-comunicacion-entre-servicios-y-aplicaciones-189024/449177/about/"
+	},
+	{
+		"pw_course_id": "188432",
+		"title": "Linting en JavaScript y TypeScript",
+		"emoji": "🔦",
+		"summary": "Aprende a sacarle todo el partido a ESLint para llevar tu código al siguiente nivel.",
+		"authors": ["nuria-soriano", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2022-09-09",
+			"end": "2022-09-22"
+		},
+		"tags": [],
+		"categories": ["tooling", "frontend", "backend"],
+		"sticker": "/img/cursos/linting-js-ts.png",
+		"slug": "linting-en-javascript-y-typescript",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/linting-en-javascript-y-typescript-188432/446893/about/"
+	},
+	{
+		"pw_course_id": "187373",
+		"title": "Desarrolla plugins de Figma con TypeScript",
+		"emoji": "🪆",
+		"summary": "Ves un paso más allá y desarrolla plugins mantenibles, escalables y testables para figma con TypeScript. Diseño y desarrollo se dan la mano.",
+		"authors": ["carmen-ansio", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2022-08-31",
+			"end": "2022-09-30"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/plugins-figma.png",
+		"slug": "desarrolla-plugins-de-figma-mantenibles-con-typescript",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/desarrolla-plugins-de-figma-mantenibles-con-typescript-187373/about/"
+	},
+	{
+		"pw_course_id": "185034",
+		"title": "Patrones de Diseño de Comportamiento",
+		"emoji": "🐝",
+		"summary": "Aprende las implicaciones a nivel de SOLID y de mantenimiento de los Patrones de Diseño de Comportamiento.",
+		"authors": ["dani-santamaria", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2022-07-07",
+			"end": "2022-08-03"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/patrones-comportamiento.png",
+		"slug": "patrones-de-comportamiento",
+		"color": "green",
+		"url": "https://pro.codely.com/library/patrones-de-diseno-de-comportamiento-185034/about/"
+	},
+	{
+		"pw_course_id": "182513",
+		"title": "TypeScript Avanzado: Más alla de any",
+		"emoji": "🚜",
+		"summary": "En este curso vamos a sentar las bases de TypeScript avanzado con el objetivo de ir estableciendo los conocimientos básicos para futuros cursos en los que profundizaremos más en otros aspectos de esta herramienta de desarrollo.",
+		"authors": ["isma-navarro", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2022-05-25",
+			"end": "2022-06-08"
+		},
+		"tags": [],
+		"categories": ["frontend", "backend"],
+		"sticker": "/img/cursos/typescript-avanzado.png",
+		"slug": "typescript-avanzando",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/typescript-avanzado-mas-alla-de-any-182513/about/"
+	},
+	{
+		"pw_course_id": "181753",
+		"title": "Maquetando la web de Codely desde 0",
+		"emoji": "🍍",
+		"summary": "Llevaremos un diseño en Figma a una web en producción, con un design system escalable y teniendo en cuenta performance, SEO, y accesibilidad.",
+		"authors": ["nuria-soriano", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2022-05-18",
+			"end": "2022-06-15"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/maquetando-la-web-de-codely.png",
+		"slug": "maquetando-la-web-de-codely-desde-0",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/maquetando-la-web-de-codely-desde-0-181753/"
+	},
+	{
+		"pw_course_id": "179996",
+		"title": "Gestión de logs con Loki y Grafana",
+		"emoji": "🏵️",
+		"summary": "Aprende a gestionar tus logs con Grafana y Loki, las buenas prácticas y cómo se diferencia del stack de ELKi",
+		"authors": ["joan-lopez-de-la-franca", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2022-03-24",
+			"end": "2022-04-20"
+		},
+		"tags": [],
+		"categories": ["backend", "devops"],
+		"sticker": "/img/cursos/gestion-de-logs-con-loki-y-grafana.png",
+		"slug": "gestion-de-logs-con-loki-y-grafana",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/gestion-de-logs-con-loki-y-grafana-179996/407529/about/"
+	},
+	{
+		"pw_course_id": "179419",
+		"title": "Entrevistas sobre eXtreme Programming",
+		"emoji": "🎤",
+		"summary": "Contenido adicional del curso de eXtreme Programming",
+		"authors": ["nino-dafonte"],
+		"releaseDate": {
+			"start": "2022-04-01",
+			"end": "2022-04-01"
+		},
+		"tags": [],
+		"categories": ["metodologias-buenas-practicas"],
+		"sticker": "/img/cursos/entrevistas-sobre-extreme-programming.png",
+		"slug": "entrevistas-sobre-extreme-programming",
+		"color": "green",
+		"url": "https://pro.codely.com/library/entrevistas-sobre-extreme-programming-179419/about/"
+	},
+	{
+		"pw_course_id": "179143",
+		"title": "TDD: Test-Driven Development",
+		"emoji": "♻️",
+		"summary": "Aprende Test-Driven Development (TDD) y las diferentes formas y estilos de aplicarlo en aplicaciones del Mundo Real™️",
+		"authors": ["dani-santamaria", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2022-03-24",
+			"end": "2022-04-20"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software", "metodologias-buenas-practicas"],
+		"sticker": "/img/cursos/tdd.png",
+		"slug": "tdd",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/tdd-test-driven-development-179143/"
+	},
+	{
+		"pw_course_id": "166172",
+		"title": "Directos exclusivos CodelyTV Pro",
+		"emoji": "🎥",
+		"summary": "Directos exclusivos resolviendo dudas, teniendo debates, y preparando siguientes cursos en base a vuestro feedback",
+		"authors": [
+			"javier-ferrer",
+			"rafa-gomez",
+			"isma-navarro",
+			"dani-santamaria",
+			"nino-dafonte",
+			"nuria-soriano"
+		],
+		"releaseDate": {
+			"start": "2021-05-26",
+			"end": "2022-03-11"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software", "frontend", "backend"],
+		"sticker": "/img/cursos/pro-streaming.png",
+		"slug": "pro-streaming",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/directos-exclusivos-codelytv-pro-166172/about/"
+	},
+	{
+		"pw_course_id": "178003",
+		"title": "Setup macOS para Programar",
+		"emoji": "",
+		"summary": "Configura tu ordenador con Mac tal y cómo lo tienen Nino y Rafa para programar lo más cómodamente posible.",
+		"authors": ["nino-dafonte", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2022-03-03",
+			"end": "2022-03-16"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/setup-mac.png",
+		"slug": "setup-mac",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/setup-macos-para-programar-178003/"
+	},
+	{
+		"pw_course_id": "177049",
+		"title": "Lightning Talks",
+		"emoji": "⚡",
+		"summary": "Charlas de 10-20 minutos sobre temas variados. Hasta ahora eran internas al equipo Codely, pero… si a nosotros nos aportan valor, puede que a ti también",
+		"authors": ["nuria-soriano"],
+		"releaseDate": {
+			"start": "2022-02-16",
+			"end": "2022-02-16"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/lightning-talks.png",
+		"slug": "lightning-talks",
+		"color": "green",
+		"url": "https://pro.codely.com/library/lightning-talks-177049/about/"
+	},
+	{
+		"pw_course_id": "171308",
+		"title": "eXtreme Programming",
+		"emoji": "🧑‍🔬",
+		"summary": "Descubre las prácticas de eXtreme Programming y su aplicación en el Mundo Real™",
+		"authors": ["nino-dafonte", "dani-santamaria"],
+		"releaseDate": {
+			"start": "2022-01-26",
+			"end": "2022-02-23"
+		},
+		"tags": [],
+		"categories": ["metodologias-buenas-practicas"],
+		"sticker": "/img/cursos/extreme-programming.png",
+		"slug": "extreme-programming",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/extreme-programming-171308"
+	},
+	{
+		"pw_course_id": "174088",
+		"title": "Introducción a Kotlin: Tu primera app",
+		"emoji": "🐈",
+		"summary": "Desarrolla tu primer comando de consola con Kotlin mientras aprendes qué hace tan potente a este lenguaje.",
+		"authors": ["isa-garrido", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2022-01-05",
+			"end": "2022-02-03"
+		},
+		"tags": [],
+		"categories": ["backend"],
+		"sticker": "/img/cursos/introduccion-a-kotlin.png",
+		"slug": "introduccion-a-kotlin",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/introduccion-a-kotlin-tu-primera-app-174088/"
+	},
+	{
+		"pw_course_id": "172533",
+		"title": "DDD en TypeScript: Modelado y arquitectura",
+		"emoji": "🔷",
+		"summary": "Crea paso a paso tu aplicación TypeScript siguiendo Domain-Driven Design.",
+		"authors": ["fernando-vilas", "ruben-salado", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2021-11-24",
+			"end": "2021-12-22"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/ddd-en-typescript-modelado-arquitectura.png",
+		"slug": "ddd-en-typescript-modelado-arquitectura",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/ddd-en-typescript-modelado-y-arquitectura-172533"
+	},
+	{
+		"pw_course_id": "172662",
+		"title": "Auditorías y Acompañamientos",
+		"emoji": "🐷",
+		"summary": "Sesión de auditoría en la que se revisa el diseño y arquitectura de software de una parte de tus sistemas y de Acompañamiento dónde te ayudamos a mejorar tu aprendizaje",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2021-11-26",
+			"end": "2022-07-27"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/auditoria-acompanamientos.png",
+		"slug": "auditoria-acompanamientos",
+		"color": "green",
+		"url": "https://pro.codely.com/library/auditorias-y-acompanamientos-172662/375960/about/"
+	},
+	{
+		"pw_course_id": "171307",
+		"title": "Gestión de Estado en React",
+		"emoji": "🍥",
+		"summary": "Conoce las distintas herramientas con la que puedes gestionar el estado en tu aplicación React.",
+		"authors": ["isma-navarro", "javier-ferrer", "ricardo-borillo"],
+		"releaseDate": {
+			"start": "2021-11-03",
+			"end": "2021-12-01"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/gestion-estado-react.png",
+		"slug": "gestion-estado-react",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/gestion-estado-en-react/"
+	},
+	{
+		"pw_course_id": "168675",
+		"title": "Web performance",
+		"emoji": "🌪️",
+		"summary": "Aprende a optimizar tus aplicaciones web y a crear una cultura de performance para mantenerla a largo plazo.",
+		"authors": ["nino-dafonte", "nuria-soriano"],
+		"releaseDate": {
+			"start": "2021-09-29",
+			"end": "2021-10-27"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/web-performance.png",
+		"slug": "web-performance",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/web-performance-168675/"
+	},
+	{
+		"pw_course_id": "167860",
+		"title": "Patrones de Diseño: Creacionales",
+		"emoji": "🏭",
+		"summary": "Aprende las implicaciones a nivel de SOLID y de mantenimiento de los Patrones de Diseño Creacionales.",
+		"authors": ["dani-santamaria", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2021-09-08",
+			"end": "2021-10-06"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/patrones-diseno-creacionales.png",
+		"slug": "patrones-diseno-creacionales",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/patrones-de-diseno-creacionales-167860/"
+	},
+	{
+		"pw_course_id": "167018",
+		"title": "CSS Flex a fondo",
+		"emoji": "🤸",
+		"summary": "Aprende a sacar todo el potencial de CSS Flex para crear layouts adaptables fácilmente.",
+		"authors": ["isma-navarro", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2021-09-01",
+			"end": "2021-09-15"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/css-flex.png",
+		"slug": "css-flex",
+		"color": "green",
+		"url": "https://pro.codely.com/library/css-flex-a-fondo/"
+	},
+	{
+		"pw_course_id": "128106",
+		"title": "De JavaScript a TypeScript",
+		"emoji": "🏗️",
+		"summary": "Aprende TypeScript partiendo de un ejemplo de JavaScript en el que haremos el proceso de refactor poco a poco y analizando las principales características de TypeScript.",
+		"authors": ["isma-navarro", "rafa-gomez", "nuria-soriano"],
+		"releaseDate": {
+			"start": "2021-06-14",
+			"end": "2021-07-28"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/de-javascript-a-typescript.png",
+		"slug": "de-javascript-a-typescript",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/de-javascript-a-typescript-128106/"
+	},
+	{
+		"pw_course_id": "127478",
+		"title": "Symfony mantenible y escalable",
+		"emoji": "🎶",
+		"summary": "Aprende herramientas y prácticas con Symfony para conseguir una mayor mantenibilidad y escalabilidad de tus aplicaciones.",
+		"authors": ["dani-santamaria", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2021-06-10",
+			"end": "2021-07-05"
+		},
+		"tags": [],
+		"categories": ["backend"],
+		"sticker": "/img/cursos/symfony-mantenible-escalable.png",
+		"slug": "symfony-mantenible-escalable",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/symfony-mantenible-y-escalable-127478/"
+	},
+	{
+		"pw_course_id": "126731",
+		"title": "CSS Grid a fondo",
+		"emoji": "🍱",
+		"summary": "Aprende a sacar provecho de CSS Grid para crear layouts flexibles sin necesidad de recurrir a frameworks.",
+		"authors": ["nuria-soriano", "rafa-gomez", "isma-navarro"],
+		"releaseDate": {
+			"start": "2021-06-02",
+			"end": "2021-06-16"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/css-grid.png",
+		"slug": "css-grid",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/css-grid-a-fondo-126731/"
+	},
+	{
+		"pw_course_id": "124104",
+		"title": "Setup Linux para Programar",
+		"emoji": "🐧",
+		"summary": "Configura tu ordenador con Linux tal y cómo lo tiene Dani para programar lo más cómodamente posible.",
+		"authors": ["dani-santamaria", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2021-05-13",
+			"end": "2021-05-26"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/setup-linux.png",
+		"slug": "setup-linux",
+		"color": "green",
+		"url": "https://pro.codely.com/library/setup-linux-para-programar-124104/"
+	},
+	{
+		"pw_course_id": "69571",
+		"title": "JavaScript moderno",
+		"emoji": "🐥",
+		"summary": "Aprende buenas prácticas para empezar aplicaciones JavaScript vanilla desde 0 y refactorizar código legacy dando soporte a navegadores antiguos.",
+		"authors": ["nuria-soriano", "javier-ferrer", "isma-navarro"],
+		"releaseDate": {
+			"start": "2021-04-07",
+			"end": "2021-05-19"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/javascript-moderno.png",
+		"slug": "javascript-moderno",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/js-moderno/about/"
+	},
+	{
+		"pw_course_id": "70287",
+		"title": "Refactoring de Code Smells a Clean Code: Change Preventers",
+		"emoji": "🧹",
+		"summary": "Aprende a detectar y lidiar con código que genera aversión al cambio. Curso centrado en Code Smells de tipo Change Preventers.",
+		"authors": ["javier-ferrer", "rafa-gomez", "dani-santamaria"],
+		"releaseDate": {
+			"start": "2021-04-15",
+			"end": "2021-04-28"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software", "metodologias-buenas-practicas"],
+		"sticker": "/img/cursos/refactoring-change-preventers.png",
+		"slug": "refactoring-change-preventers",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/refactoring-change-preventers/about/"
+	},
+	{
+		"pw_course_id": "67890",
+		"title": "Light & Dark themes accesibles",
+		"emoji": "🌚🌝",
+		"summary": "Aprende a implementar temas claros y oscuros en una página web de forma accesible, cómo integrarlo en tu arquitectura CSS y cómo adaptar los diseños para que te queden unos temas finísimos.",
+		"authors": ["nuria-soriano", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2021-03-03",
+			"end": "2021-03-17"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/light-dark-themes-accesibles.png",
+		"slug": "light-dark-themes-accesibles",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/light-dark-themes-accesibles/about/"
+	},
+	{
+		"pw_course_id": "63367",
+		"title": "API HTTP en Go aplicando Arquitectura Hexagonal",
+		"emoji": "⛳",
+		"summary": "Aprende a desarrollar tu primera API HTTP en Go aplicando algunos de los fundamentos de la Arquitectura Hexagonal.",
+		"authors": ["adrian-perez", "joan-lopez-de-la-franca", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2021-01-27",
+			"end": "2021-02-24"
+		},
+		"tags": [],
+		"categories": ["backend", "arquitectura-software"],
+		"sticker": "/img/cursos/api-go-hexagonal.png",
+		"slug": "api-go-hexagonal",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/api-go-hexagonal/about/"
+	},
+	{
+		"pw_course_id": "65916",
+		"title": "Testing en frontend",
+		"emoji": "🐙",
+		"summary": "Aprende cómo testear tus aplicaciones frontend, aplicando buenas prácticas para conseguir unos tests mantenibles que aporten confianza.",
+		"authors": ["nuria-soriano", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2021-01-21",
+			"end": "2021-02-17"
+		},
+		"tags": [],
+		"categories": ["frontend", "metodologias-buenas-practicas"],
+		"sticker": "/img/cursos/testing-frontend.png",
+		"slug": "testing-frontend",
+		"color": "green",
+		"url": "https://pro.codely.com/library/testing-frontend/about/"
+	},
+	{
+		"pw_course_id": "65863",
+		"title": "Karabiner: Atajos de teclado para todo",
+		"emoji": "🎱",
+		"summary": "¡Automatiza todo en tu mac a golpe de atajos de teclado y mejor tu productividad!",
+		"authors": ["rafa-gomez"],
+		"releaseDate": {
+			"start": "2021-01-13",
+			"end": "2021-01-13"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/karabiner.png",
+		"slug": "karabiner",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/karabiner/about/"
+	},
+	{
+		"pw_course_id": "64280",
+		"title": "Arquitectura CSS",
+		"emoji": "🗼",
+		"summary": "Aprende los fundamentos de una buena arquitectura CSS para que tus estilos sean fáciles de mantener y escalar.",
+		"authors": ["nuria-soriano", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2020-11-25",
+			"end": "2020-12-24"
+		},
+		"tags": [],
+		"categories": ["frontend", "arquitectura-software"],
+		"sticker": "/img/cursos/arquitectura-css.png",
+		"slug": "arquitectura-css",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/arquitectura-css/about/"
+	},
+	{
+		"pw_course_id": "64204",
+		"title": "PHP 8: Novedades y ejemplos para el Mundo Real™",
+		"emoji": "🐘",
+		"summary": "Migra tus aplicaciones a PHP 8 paso a paso, consigue tests más mantenibles gracias a Named Arguments, Value Objects más simples con Constructor Property Promotion, reemplaza PECL (obsoleto), y mucho más.",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-11-18",
+			"end": "2020-12-02"
+		},
+		"tags": [],
+		"categories": ["backend"],
+		"sticker": "/img/cursos/php-8.png",
+		"slug": "php-8",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/php-8/about/"
+	},
+	{
+		"pw_course_id": "63364",
+		"title": "Vue 3: Novedades aplicadas al mundo real",
+		"emoji": "✌️",
+		"summary": "Veremos cómo exprimir las novedades de Vue 3 con ejemplos reales y aplicando buenas prácticas.",
+		"authors": ["nuria-soriano", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-10-28",
+			"end": "2020-11-11"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/novedades-vue-3.png",
+		"slug": "novedades-vue-3",
+		"color": "green",
+		"url": "https://pro.codely.com/library/novedades-vue-3/about/"
+	},
+	{
+		"pw_course_id": "62398",
+		"title": "Buenas prácticas con CSS: Layouts",
+		"emoji": "📐",
+		"summary": "",
+		"authors": ["nuria-soriano", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2020-10-01",
+			"end": "2020-10-16"
+		},
+		"tags": [],
+		"categories": ["frontend", "metodologias-buenas-practicas"],
+		"sticker": "/img/cursos/layouts-css.png",
+		"slug": "layouts-css",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/layouts-css/about/"
+	},
+	{
+		"pw_course_id": "62290",
+		"title": "Refactoring de Code Smells a Clean Code: Bloaters",
+		"emoji": "🧼",
+		"summary": "Aprende a detectar y lidiar con código incomprensible 🤟",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-09-24",
+			"end": "2020-10-22"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software", "metodologias-buenas-practicas"],
+		"sticker": "/img/cursos/refactoring-code-smells-clean-code-bloaters.png",
+		"slug": "refactoring-code-smells-clean-code-bloaters",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/refactoring-code-smells-clean-code-bloaters/about/"
+	},
+	{
+		"pw_course_id": "61863",
+		"title": "Teclados Mecánicos",
+		"emoji": "⌨️",
+		"summary": "Monta tu teclado perfecto y personalizado al 100%",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-09-16",
+			"end": "2020-09-30"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/teclados-mecanicos.png",
+		"slug": "teclados-mecanicos",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/teclados-mecanicos/about/"
+	},
+	{
+		"pw_course_id": "60877",
+		"title": "Makefiles",
+		"emoji": "🐂",
+		"summary": "El centralizar tareas de nuestras aplicaciones es algo muy importante, y con los Makefiles se simplifica mucho.",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-08-19",
+			"end": "2020-09-02"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/makefiles.png",
+		"slug": "makefiles",
+		"color": "green",
+		"url": "https://pro.codely.com/library/makefiles/about/"
+	},
+	{
+		"pw_course_id": "52668",
+		"title": "Monitoring con Prometheus",
+		"emoji": "🔥",
+		"summary": "La observabilidad es una de las cosas más importantes de la programación y el Monitoring uno de sus principales pilares.",
+		"authors": ["ruben-cougil", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2020-08-12",
+			"end": "2020-08-26"
+		},
+		"tags": [],
+		"categories": ["devops"],
+		"sticker": "/img/cursos/prometheus.png",
+		"slug": "prometheus",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/prometheus/about/"
+	},
+	{
+		"pw_course_id": "60259",
+		"title": "Visualiza métricas de Prometheus con Grafana",
+		"emoji": "👁‍🗨",
+		"summary": "Aprende a crear un panel de 10 utilizando Grafana con Prometheus como datasource.",
+		"authors": ["ruben-cougil", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2020-08-12",
+			"end": "2020-08-26"
+		},
+		"tags": [],
+		"categories": ["devops"],
+		"sticker": "/img/cursos/grafana-con-prometheus.png",
+		"slug": "grafana-con-prometheus",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/curso-grafana-con-prometheus/about/"
+	},
+	{
+		"pw_course_id": "54979",
+		"title": "Notion: Productividad en equipo",
+		"emoji": "🌈",
+		"summary": "Centraliza toda la documentación de tu equipo de trabajo y la gestión de tareas en 1 única herramienta: Notion.",
+		"authors": ["javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-05-22",
+			"end": "2020-07-31"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/notion.png",
+		"slug": "notion",
+		"color": "green",
+		"url": "https://pro.codely.com/library/notion/about/"
+	},
+	{
+		"pw_course_id": "56241",
+		"title": "Bash para el día a día: Scripting & Productividad",
+		"emoji": "💻",
+		"summary": "Aprende a usar la navaja suiza de los programadores 😬",
+		"authors": ["rafa-gomez"],
+		"releaseDate": {
+			"start": "2020-05-29",
+			"end": "2020-06-10"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/bash.png",
+		"slug": "bash",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/curso-bash/about/"
+	},
+	{
+		"pw_course_id": "54672",
+		"title": "Todo sobre los dotfiles",
+		"emoji": "🚀",
+		"summary": "Aprende a automatizar, centralizar y compartir todas tus configuraciones gracias a los dotfiles.",
+		"authors": ["rafa-gomez"],
+		"releaseDate": {
+			"start": "2020-04-23",
+			"end": "2020-05-07"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/todo-sobre-los-dotfiles.png",
+		"slug": "todo-sobre-los-dotfiles",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/todo-sobre-los-dotfiles/about/"
+	},
+	{
+		"pw_course_id": "52453",
+		"title": "Productividad con iTerm: Terminal macOS",
+		"emoji": "💨",
+		"summary": "Veremos cómo tener una terminal rapidísima y muy productiva gracias a unos simple (y escondidos) tips.",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-04-23",
+			"end": "2020-05-07"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/iterm.png",
+		"slug": "iterm",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/iterm/about/"
+	},
+	{
+		"pw_course_id": "52283",
+		"title": "Automatiza tu flujo de trabajo con GitHub Actions",
+		"emoji": "🤖",
+		"summary": "Crearemos nuestras propias actions (¡hasta publicaremos alguna en el Marketplace!) que nos puedan ser muy útiles en nuestro día a día.",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-03-04",
+			"end": "2020-04-08"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/automatizacion-con-github-actions.png",
+		"slug": "automatizacion-con-github-actions",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/automatizacion-con-github-actions/about/"
+	},
+	{
+		"pw_course_id": "51353",
+		"title": "Terminal 100% productiva con Zsh",
+		"emoji": "💻",
+		"summary": "Consigue ser un Productivity Raptor™ con tu terminal gracias a Zsh, Oh My Zsh, Zim y funciones avanzadas.",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-03-04",
+			"end": "2020-04-08"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/terminal-zsh.png",
+		"slug": "terminal-zsh",
+		"color": "green",
+		"url": "https://pro.codely.com/library/terminal-zsh/about/"
+	},
+	{
+		"pw_course_id": "51237",
+		"title": "Integración Continua con GitHub Actions",
+		"emoji": "🤖",
+		"summary": "¡Consigue una Integración Continua de la que te puedas fiar y que sea rapidísima! Gracias a GitHub Actions veremos como lograrlo.",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-03-04",
+			"end": "2020-04-08"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/github-actions-de-0-a-integracion-continua.png",
+		"slug": "github-actions-de-0-a-integracion-continua",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/github-actions-de-0-a-integracion-continua/about/"
+	},
+	{
+		"pw_course_id": "49135",
+		"title": "Exprimiendo IntelliJ",
+		"emoji": "⚡",
+		"summary": "¡Mejora tu productividad exprimiendo IntelliJ! Consigue un aspecto minimalista, crea ficheros con plantillas personalizadas, atajos secretos, y mucho más.",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2020-03-04",
+			"end": "2020-04-08"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/intellij.png",
+		"slug": "intellij",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/intellij/about/"
+	},
+	{
+		"pw_course_id": "48201",
+		"title": "DDD en Java",
+		"emoji": "☕",
+		"summary": "Crea paso a paso tu aplicación Java siguiendo Domain-Driven Design. Estructura de carpetas, integración con BD, sistema de colas, CQRS y más.",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2019-09-19",
+			"end": "2019-12-31"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/ddd-en-java.png",
+		"slug": "ddd-en-java",
+		"color": "green",
+		"url": "https://pro.codely.com/library/ddd-en-java/about/"
+	},
+	{
+		"pw_course_id": "46555",
+		"title": "DDD en PHP",
+		"emoji": "🐘",
+		"summary": "Crea paso a paso tu aplicación PHP siguiendo Domain-Driven Design. Estructura de carpetas, integración con BD, sistema de colas, CQRS y más.",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2019-07-30",
+			"end": "2019-08-28"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/ddd-en-php.png",
+		"slug": "ddd-en-php",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/ddd-en-php/about/"
+	},
+	{
+		"pw_course_id": "45727",
+		"title": "Git: Introducción y trabajo en equipo",
+		"emoji": "🔀",
+		"summary": "Aprende a trabajar en equipo con Git y sacarle todo el provecho con aspectos avanzados como debugging, estrategias de merge, y mucho más.",
+		"authors": ["rafa-gomez", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2019-06-26",
+			"end": "2019-08-07"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/git-introduccion-y-trabajo-en-equipo.png",
+		"slug": "git-introduccion-y-trabajo-en-equipo",
+		"color": "green",
+		"url": "https://pro.codely.com/library/git-introduccion-y-trabajo-en-equipo/about/"
+	},
+	{
+		"pw_course_id": "44653",
+		"title": "Testing: Introducción y buenas prácticas",
+		"emoji": "✅",
+		"summary": "Aprende qué aporta el testing, cómo testear y buenas prácticas para evitar que mantener tus tests sea un infierno con ejemplos de El Mundo Real™",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software", "metodologias-buenas-practicas"],
+		"sticker": "/img/cursos/testing-introduccion-y-buenas-practicas.png",
+		"slug": "testing-introduccion-y-buenas-practicas",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/testing-introduccion-y-buenas-practicas/about/"
+	},
+	{
+		"pw_course_id": "43842",
+		"title": "Introducción a Go: Tu primera app",
+		"emoji": "⚡",
+		"summary": "Desarrolla tu primer comando de consola con Go mientras aprendes qué hace diferente al lenguaje de moda.",
+		"authors": ["joan-lopez-de-la-franca", "adrian-perez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["backend"],
+		"sticker": "/img/cursos/introduccion-a-go-tu-primera-app.png",
+		"slug": "introduccion-a-go-tu-primera-app",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/introduccion-a-go-tu-primera-app/about/"
+	},
+	{
+		"pw_course_id": "42952",
+		"title": "Domain-Driven Design: DDD Aplicado",
+		"emoji": "🗿",
+		"summary": "Aprende a modelar tus aplicaciones centrándote en tu dominio, definir Bounded Contexts, agregados, value objects, y mucho más. Todo de forma práctica y con ejemplos de código",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2019-02-20",
+			"end": "2019-04-11"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/domain-driven-design-ddd.png",
+		"slug": "domain-driven-design-ddd",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/domain-driven-design-ddd/about/"
+	},
+	{
+		"pw_course_id": "38092",
+		"title": "ReactJS: De 0 a deploy",
+		"emoji": "⚛️",
+		"summary": "Crea tu primera aplicación de React llevándola hasta producción y siguiendo buenas prácticas",
+		"authors": ["dani-martin"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/reactjs-de-0-a-deploy.png",
+		"slug": "reactjs-de-0-a-deploy",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/reactjs-de-0-a-deploy-siguiendo-buenas-practicas/about/"
+	},
+	{
+		"pw_course_id": "38064",
+		"title": "Kubernetes para desarrolladores",
+		"emoji": "⛵",
+		"summary": "Aprende a orquestrar contenedores de Docker y desplegarlos en Azure, GCE, o AWS siguiendo buenas prácticas",
+		"authors": ["jose-armesto"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["devops"],
+		"sticker": "/img/cursos/kubernetes-para-desarrolladores.png",
+		"slug": "kubernetes-para-desarrolladores",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/kubernetes-para-desarrolladores/about/"
+	},
+	{
+		"pw_course_id": "37558",
+		"title": "Migrando a VueJS progresivamente",
+		"emoji": "♻️️",
+		"summary": "Aprende cómo migrar un frontend ya existente a Vue.js partiendo de HTML, CSS y JS generado por backend",
+		"authors": ["juanma-garrido"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/migrando-a-vuejs-progresivamente-desde-0.png",
+		"slug": "migrando-a-vuejs-progresivamente-desde-0",
+		"color": "green",
+		"url": "https://pro.codely.com/library/migrando-a-vuejs-progresivamente-desde-0/about/"
+	},
+	{
+		"pw_course_id": "36986",
+		"title": "ELK: Centraliza logs con Elastic Stack",
+		"emoji": "📊",
+		"summary": "Aprende a montar un stack para poder explotar toda la información de tus logs gracias a Elasticsearch, Logstash o Beats, y Kibana",
+		"authors": ["ruben-cougil", "javier-ferrer"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["devops", "backend"],
+		"sticker": "/img/cursos/elkbeats-centraliza-la-gestion-de-logs-con-the-elastic-stack.png",
+		"slug": "elkbeats-centraliza-la-gestion-de-logs-con-the-elastic-stack",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/elkbeats-centraliza-la-gestion-de-logs-con-the-elastic-stack/about/"
+	},
+	{
+		"pw_course_id": "36875",
+		"title": "Principios SOLID aplicados",
+		"emoji": "🧱",
+		"summary": "Si ya sabes desarrollar software, pero quieres ir un paso más allá y mejorar la calidad de tu código, este es tu curso",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/principios-solid-aplicados.png",
+		"slug": "principios-solid-aplicados",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/principios-solid-aplicados/about/"
+	},
+	{
+		"pw_course_id": "35834",
+		"title": "Comunicación entre microservicios: Event-Driven Architecture",
+		"emoji": "💬",
+		"summary": "Publica y consume eventos de dominio, consistencia eventual, RabbitMQ y AWS SNS-SQS, migración de monolito a servicios, y mucho más.",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/comunicacion-entre-microservicios-event-driven-architecture.png",
+		"slug": "comunicacion-entre-microservicios-event-driven-architecture",
+		"color": "green",
+		"url": "https://pro.codely.com/library/comunicacion-entre-microservicios-event-driven-architecture/about/"
+	},
+	{
+		"pw_course_id": "33938",
+		"title": "Programación funcional: Refactor de OO a TypeClasses",
+		"emoji": "ƛ",
+		"summary": "Introducción a la programación funcional pura en Scala y a sus ventajas de la mano de las type classes.",
+		"authors": ["juan-manuel-serrano", "javier-fuentes"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["backend"],
+		"sticker": "/img/cursos/programacion-funcional-refactorizando-codigo-orientado-a-objetos-con-typeclasses.png",
+		"slug": "programacion-funcional-refactorizando-codigo-orientado-a-objetos-con-typeclasses",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/programacion-funcional-refactorizando-codigo-orientado-a-objetos-con-typeclasses/about/"
+	},
+	{
+		"pw_course_id": "33455",
+		"title": "Docker: De 0 a deploy",
+		"emoji": "🐳",
+		"summary": "Aprende qué es Docker y cómo sacar el mayor partido a los contenedores. Empezando desde el principio, veremos cómo usar Docker para levantar tu aplicación en local como si fuese producción, arrancando una base de datos con Docker Compose.",
+		"authors": ["jose-armesto"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["devops"],
+		"sticker": "/img/cursos/docker-de-0-a-deployment.png",
+		"slug": "docker-de-0-a-deployment",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/docker-de-0-a-deployment/about/"
+	},
+	{
+		"pw_course_id": "32168",
+		"title": "Exprimiendo las vistas de Android",
+		"emoji": "🖌️",
+		"summary": "Aprenderás a diseñar en Android cualquier diseño que te propongas. Empezando desde la base, iremos analizando todos los componentes hasta llegar a conceptos avanzados para que no se te resista ningún reto.",
+		"authors": ["ilia-berlana"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["mobile"],
+		"sticker": "/img/cursos/exprimiendo-las-vistas-de-android.png",
+		"slug": "exprimiendo-las-vistas-de-android",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/exprimiendo-las-vistas-de-android/about/"
+	},
+	{
+		"pw_course_id": "31950",
+		"title": "CQRS y Event Sourcing con Kotlin y Axon Framework",
+		"emoji": "🤹",
+		"summary": "Aprenderemos qué es Event Sourcing y cómo se complementa con la arquitectura CQRS. La parte práctica del curso consistirá en un desarrollo de un carrito de la compra para un ecommerce usando Kotlin y el framework Axon.",
+		"authors": ["jordi-llonch", "ramon-aranda"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["backend", "arquitectura-software"],
+		"sticker": "/img/cursos/cqrs-y-event-sourcing-con-kotlin-y-axon-framework.png",
+		"slug": "cqrs-y-event-sourcing-con-kotlin-y-axon-framework",
+		"color": "green",
+		"url": "https://pro.codely.com/library/cqrs-y-event-sourcing-con-kotlin-y-axon-framework/about/"
+	},
+	{
+		"pw_course_id": "31202",
+		"title": "Tu primera API HTTP con Scala",
+		"emoji": "🗣️",
+		"summary": "Habiendo hecho el primer curso de introducción a Scala ya nos podemos meter en materia y desarrollar nuestra primera API HTTP con Scala, Akka, base de datos, y mucho más.",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["backend"],
+		"sticker": "/img/cursos/api-http-con-scala-y-akka.png",
+		"slug": "api-http-con-scala-y-akka",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/api-http-con-scala-y-akka/about/"
+	},
+	{
+		"pw_course_id": "31201",
+		"title": "Arquitectura Hexagonal",
+		"emoji": "🎯",
+		"summary": "Domain-Driven Design se apoya en la Arquitectura Hexagonal como uno de sus pilares a nivel técnico. Aprende a implementarla con CodelyTV!",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/arquitectura-hexagonal.png",
+		"slug": "arquitectura-hexagonal",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/arquitectura-hexagonal/about/"
+	},
+	{
+		"pw_course_id": "31133",
+		"title": "AWS: Escalando apps - Load Balancers y Auto Scaling Groups",
+		"emoji": "📈",
+		"summary": "José Armesto seguirá la serie de cursos sobre AWS hablando de cómo escalar. Introduciremos los Load Balancers y Auto Scaling Groups de AWS.",
+		"authors": ["jose-armesto"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["devops"],
+		"sticker": "/img/cursos/aws-autoescalado-de-aplicaciones-con-alb-y-asg.png",
+		"slug": "aws-autoescalado-de-aplicaciones-con-alb-y-asg",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/aws-autoescalado-de-aplicaciones-con-alb-y-asg/about/"
+	},
+	{
+		"pw_course_id": "30719",
+		"title": "Crea una app MEAN profesional con AngularJS y Webpack",
+		"emoji": "🛡️",
+		"summary": "JuanMa Garrido nos explica cómo crear aplicaciones profesionales desde 0 basándonos en MongoDB, Express, AngularJS, y Node.js siguiendo buenas prácticas y usando Webpack.",
+		"authors": ["juanma-garrido"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/crea-una-app-mean-profesional-con-angularjs-y-webpack.png",
+		"slug": "crea-una-app-mean-profesional-con-angularjs-y-webpack",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/crea-una-app-mean-profesional-con-angularjs-y-webpack/about/"
+	},
+	{
+		"pw_course_id": "30295",
+		"title": "Testing unidirectional dataflow con Vuex y Jest",
+		"emoji": "🍄",
+		"summary": "Explicaremos la implementación de arquitectura de flujo unidireccional de Vuex y veremos cómo ayuda al desarrollo de aplicaciones con una jerarquía de componentes más compleja.",
+		"authors": ["alberto-gualis", "javier-rubio"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/testing-unidirectional-dataflow-vuex-y-jest.png",
+		"slug": "testing-unidirectional-dataflow-vuex-y-jest",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/testing-unidirectional-dataflow-vuex-y-jest/about/"
+	},
+	{
+		"pw_course_id": "30294",
+		"title": "Crea una app con VueJS y Jest aplicando TDD",
+		"emoji": "✌️",
+		"summary": "Alberto Gualis y Javi Rubio nos explicarán cómo testean aplicaciones VueJS con Jest en los Coding Stones. Incluye sesión práctica de TDD en Frontend. A lo loco!",
+		"authors": ["alberto-gualis", "javier-rubio"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["frontend"],
+		"sticker": "/img/cursos/crea-una-app-con-vuejs-y-jest-aplicando-tdd.png",
+		"slug": "crea-una-app-con-vuejs-y-jest-aplicando-tdd",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/crea-una-app-con-vuejs-y-jest-aplicando-tdd/about/"
+	},
+	{
+		"pw_course_id": "30293",
+		"title": "Buenas prácticas de BDD con Gherkin",
+		"emoji": "🥒",
+		"summary": "Aprenderás desde los conceptos básicos para testear tu aplicación con Cucumber o Behat, hasta consejos de buenas prácticas para hacer que tu suite de tests sea más fácilmente mantenible.",
+		"authors": ["alberto-gualis", "javier-rubio", "dani-latorre"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["backend"],
+		"sticker": "/img/cursos/buenas-practicas-de-bdd-con-cucumber.png",
+		"slug": "buenas-practicas-de-bdd-con-cucumber",
+		"color": "green",
+		"url": "https://pro.codely.com/library/buenas-practicas-de-bdd-con-cucumber/about/"
+	},
+	{
+		"pw_course_id": "29386",
+		"title": "Introducción a Scala",
+		"emoji": "🌀",
+		"summary": "Scala es un lenguaje conciso, poco verboso, y que permite la programación funcional sin olvidar la POO. Aprenderemos cómo configurar el entorno, las bases del lenguaje, asincronía y otros tips para empezar.",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["backend"],
+		"sticker": "/img/cursos/introduccion-a-scala.png",
+		"slug": "introduccion-a-scala",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/introduccion-a-scala/about/"
+	},
+	{
+		"pw_course_id": "29303",
+		"title": "UI Testing en iOS con KIF",
+		"emoji": "📱",
+		"summary": "Aprende una de las técnicas de testing más potentes que existen para desarrollo móvil, aprende a hacer tests funcionales de UI para aplicaciones iOS con Sergio Gutierrez de Karumi.",
+		"authors": ["jorge-barroso", "sergio-gutierrez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["mobile"],
+		"sticker": "/img/cursos/ui-testing-en-ios-con-kif.png",
+		"slug": "ui-testing-en-ios-con-kif",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/ui-testing-en-ios-con-kif/about/"
+	},
+	{
+		"pw_course_id": "29290",
+		"title": "Screenshot testing en iOS",
+		"emoji": "🖼️",
+		"summary": "Sergio Gutierrez de Karumi nos explicará cómo y qué aporta hacer Screenshot Testing en iOS. Veremos desde cómo empezar a escribir nuestros primeros tests, hasta algunos trucos a tener en cuenta pasando por la integración continua.",
+		"authors": ["jorge-barroso", "sergio-gutierrez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["mobile"],
+		"sticker": "/img/cursos/screenshot-testing-en-ios.png",
+		"slug": "screenshot-testing-en-ios",
+		"color": "green",
+		"url": "https://pro.codely.com/library/screenshot-testing-en-ios-3af3e7f1/about/"
+	},
+	{
+		"pw_course_id": "29289",
+		"title": "Screenshot testing en Android",
+		"emoji": "📸",
+		"summary": "Jorge Barroso de Karumi nos explicará cómo y qué aporta hacer Screenshot Testing en Android. Veremos desde cómo empezar a escribir nuestros primeros tests, hasta algunos trucos a tener en cuenta pasando por la integración continua.",
+		"authors": ["jorge-barroso", "sergio-gutierrez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["mobile"],
+		"sticker": "/img/cursos/screenshot-testing-en-android.png",
+		"slug": "screenshot-testing-en-android",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/screenshot-testing-en-android-f1bc7a25/about/"
+	},
+	{
+		"pw_course_id": "29286",
+		"title": "UI Testing en Android con Espresso",
+		"emoji": "🎨",
+		"summary": "En el mundo mobile la parte más importante y grande que debemos cubrir con tests es la interfaz de usuario. En este curso aprenderemos las claves para escribir buenos tests de UI con Jorge Barroso de Karumi.",
+		"authors": ["jorge-barroso", "sergio-gutierrez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["mobile"],
+		"sticker": "/img/cursos/ui-testing-en-android-con-espresso.png",
+		"slug": "ui-testing-en-android-con-espresso",
+		"color": "yellow",
+		"url": "https://pro.codely.com/library/ui-testing-en-android-con-espresso/about/"
+	},
+	{
+		"pw_course_id": "29085",
+		"title": "AWS EC2: Tu primer deploy",
+		"emoji": "☁️",
+		"summary": "Aprende las bases de Amazon Web Services para levantar tu aplicación en la nube. Crea tu propia VPC, elige la instancia adecuada de EC2, configura SSH, elige tu AMI base, define Security Groups, deploya, y configura Route53 como DNS!",
+		"authors": ["jose-armesto"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["devops"],
+		"sticker": "/img/cursos/aws-deploy-en-ec2.png",
+		"slug": "aws-deploy-en-ec2",
+		"color": "green",
+		"url": "https://pro.codely.com/library/aws-deploy-en-ec2/about/"
+	},
+	{
+		"pw_course_id": "29082",
+		"title": "Agile: Cómo mejorar tus retrospectivas",
+		"emoji": "🤝",
+		"summary": "A pesar de parecer simple, llevar a cabo buenas retrospectivas no siempre es fácil. En este curso José Huerta de Smoking Brains nos explicará cómo mejorar.",
+		"authors": ["jose-rodriguez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["tooling"],
+		"sticker": "/img/cursos/agile-retrospectivas.png",
+		"slug": "agile-retrospectivas",
+		"color": "pink",
+		"url": "https://pro.codely.com/library/agile-retrospectivas/about/"
+	},
+	{
+		"pw_course_id": "29074",
+		"title": "CQRS: Command Query Responsibility Segregation",
+		"emoji": "🚌",
+		"summary": "Aumenta el rendimiento y el desacoplamiento de tu backend mediante CQRS. Veremos conceptos e implementaciones de buses síncronos y asíncronos.",
+		"authors": ["javier-ferrer", "rafa-gomez"],
+		"releaseDate": {
+			"start": "2019-04-04",
+			"end": "2019-04-04"
+		},
+		"tags": [],
+		"categories": ["arquitectura-software"],
+		"sticker": "/img/cursos/cqrs-command-query-responsibility-segregation.png",
+		"slug": "cqrs-command-query-responsibility-segregation",
+		"color": "violet",
+		"url": "https://pro.codely.com/library/cqrs-command-query-responsibility-segregation-3719e4aa/about/"
+	}
+]
