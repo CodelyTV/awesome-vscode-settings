@@ -58,5 +58,6 @@
   "focus.highlightRange": "block",
   "jest.autoRun": "off",
   "workbench.statusBar.visible": false,
-  "githubPullRequests.pushBranch": "always"
+  "githubPullRequests.pushBranch": "always",
+  "php.codeLens.enabled": false
 }

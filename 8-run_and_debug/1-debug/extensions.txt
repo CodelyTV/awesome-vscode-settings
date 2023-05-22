@@ -8,3 +8,5 @@ miguelsolorio.symbols
 blakeh.jump-to-test
 dbaeumer.vscode-eslint
 Orta.vscode-jest
+eamodio.gitlens
+vivaxy.vscode-conventional-commits

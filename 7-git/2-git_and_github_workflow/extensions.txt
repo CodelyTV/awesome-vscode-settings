@@ -10,3 +10,4 @@ dbaeumer.vscode-eslint
 Orta.vscode-jest
 eamodio.gitlens
 GitHub.vscode-pull-request-github
+vivaxy.vscode-conventional-commits
