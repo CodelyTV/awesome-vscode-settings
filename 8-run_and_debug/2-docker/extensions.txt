@@ -8,3 +8,4 @@ miguelsolorio.symbols
 blakeh.jump-to-test
 dbaeumer.vscode-eslint
 Orta.vscode-jest
+ms-azuretools.vscode-docker
