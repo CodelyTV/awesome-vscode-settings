@@ -1,0 +1,17 @@
+blakeh.jump-to-test
+Codely.codely-theme
+dbaeumer.vscode-eslint
+DEVSENSE.composer-php-vscode
+DEVSENSE.phptools-vscode
+DEVSENSE.profiler-php-vscode
+eamodio.gitlens
+GitHub.vscode-pull-request-github
+GrapeCity.gc-excelviewer
+mechatroner.rainbow-csv
+miguelsolorio.fluent-icons
+miguelsolorio.symbols
+ms-azuretools.vscode-docker
+Orta.vscode-jest
+QuanLi.focus
+usernamehw.errorlens
+vivaxy.vscode-conventional-commits
