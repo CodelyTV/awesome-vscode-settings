@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  codely_vscode_node_example:
+    container_name: codely-vscode-node_docker_example
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+      - "9229:9229"
+    volumes:
+      - .:/app
+    command: [ "npm", "run", "dev:debug" ]
