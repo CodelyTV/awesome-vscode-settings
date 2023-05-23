@@ -1,0 +1,13 @@
+{
+	"New TS Class": {
+		"scope": "typescript",
+		"prefix": "_class",
+		"body": [
+			"export class $TM_FILENAME_BASE {",
+			"\t$0",
+			"}"
+		],
+		"isFileTemplate": true,
+		"description": "Log output to console"
+	}
+}
