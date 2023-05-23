@@ -1,0 +1,112 @@
+[
+  {
+    "key": "cmd+shift+1",
+    "command": "workbench.action.toggleActivityBarVisibility"
+  },
+  {
+    "key": "cmd+1",
+    "command": "workbench.action.focusSideBar"
+  },
+  {
+    "key": "cmd+1",
+    "command": "workbench.action.toggleSidebarVisibility",
+    "when": "sideBarFocus"
+  },
+  {
+    "key": "enter",
+    "command": "list.select",
+    "when": "sideBarFocus"
+  },
+  {
+    "key": "escape",
+    "command": "workbench.action.focusActiveEditorGroup",
+    "when": "!editorTextFocus"
+  },
+  {
+    "key": "cmd+n",
+    "command": "explorer.newFile",
+    "when": "explorerViewletFocus"
+  },
+  {
+    "key": "ctrl+alt+cmd+p",
+    "command": "explorer.newFolder",
+    "when": "explorerViewletFocus"
+  },
+  {
+    "key": "ctrl+alt+cmd+,",
+    "command": "workbench.action.toggleStatusbarVisibility"
+  },
+  {
+    "key": "ctrl+alt+cmd+t",
+    "command": "workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "ctrl+alt+cmd+m",
+    "command": "notifications.clearAll"
+  },
+  {
+    "key": "ctrl+d",
+    "command": "editor.action.copyLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "cmd+e",
+    "command": "workbench.action.showAllEditorsByMostRecentlyUsed"
+  },
+  {
+    "key": "cmd+[",
+    "command": "workbench.action.navigateBack",
+    "when": "canNavigateBack"
+  },
+  {
+    "key": "cmd+]",
+    "command": "workbench.action.navigateForward",
+    "when": "canNavigateForward"
+  },
+  {
+    "key": "cmd+b",
+    "command": "-workbench.action.toggleSidebarVisibility"
+  },
+  {
+    "key": "cmd+b",
+    "command": "editor.action.revealDefinition",
+    "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+  },
+  {
+    "key": "shift+cmd+t",
+    "command": "extension.jumpToTest",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+alt+down",
+    "command": "editor.action.moveLinesDownAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "shift+alt+up",
+    "command": "editor.action.moveLinesUpAction",
+    "when": "editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "alt+up",
+    "command": "editor.action.smartSelect.expand",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "alt+down",
+    "command": "editor.action.smartSelect.shrink",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+t",
+    "command": "editor.action.refactor",
+    "when": "editorHasCodeActionsProvider && textInputFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+e",
+    "command": "editor.action.codeAction",
+    "args": {
+      "kind": "refactor.extract.function",
+    }
+  }
+]
