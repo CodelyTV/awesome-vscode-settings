@@ -15,6 +15,7 @@ usernamehw.errorlens
 VisualStudioExptTeam.intellicode-api-usage-examples
 VisualStudioExptTeam.vscodeintellicode
 vivaxy.vscode-conventional-commits
+hansu.git-graph-2
 vmware.vscode-boot-dev-pack
 vmware.vscode-spring-boot
 vscjava.vscode-gradle

@@ -15,3 +15,4 @@ Orta.vscode-jest
 QuanLi.focus
 usernamehw.errorlens
 vivaxy.vscode-conventional-commits
+hansu.git-graph-2

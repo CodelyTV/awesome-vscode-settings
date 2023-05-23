@@ -10,5 +10,6 @@ dbaeumer.vscode-eslint
 Orta.vscode-jest
 eamodio.gitlens
 vivaxy.vscode-conventional-commits
+hansu.git-graph-2
 ms-azuretools.vscode-docker
 ms-vsliveshare.vsliveshare
