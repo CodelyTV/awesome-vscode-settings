@@ -3,23 +3,33 @@
     "key": "cmd+1",
     "command": "runCommands",
     "args": {
-      "commands": [    
+      "commands": [
         "workbench.action.toggleSidebarVisibility",
         "workbench.action.focusSideBar"
       ]
     }
   },
-  {
+    {
     "key": "cmd+1",
     "command": "runCommands",
     "args": {
-      "commands": [    
-        "workbench.action.focusSideBar",
-        "workbench.action.toggleSidebarVisibility"
-      ]
+    "commands": [
+      "workbench.action.focusSideBar",
+      "workbench.action.toggleSidebarVisibility"
+    ]
     },
     "when": "sideBarFocus"
-  },
+    },
+    {
+    "key": "cmd+1",
+    "command": "runCommands",
+    "args": {
+    "commands": [
+      "workbench.action.toggleSidebarVisibility"
+    ]
+    },
+    "when": "!sideBarFocus && sideBarVisible"
+    },
   {
     "key": "enter",
     "command": "list.select",
