@@ -1,11 +1,23 @@
 [
   {
     "key": "cmd+1",
-    "command": "workbench.action.focusSideBar"
+    "command": "runCommands",
+    "args": {
+      "commands": [    
+        "workbench.action.toggleSidebarVisibility",
+        "workbench.action.focusSideBar"
+      ]
+    }
   },
   {
     "key": "cmd+1",
-    "command": "workbench.action.toggleSidebarVisibility",
+    "command": "runCommands",
+    "args": {
+      "commands": [    
+        "workbench.action.focusSideBar",
+        "workbench.action.toggleSidebarVisibility"
+      ]
+    },
     "when": "sideBarFocus"
   },
   {
